@@ -72,10 +72,6 @@ class LoginSection extends StatelessWidget implements TmBookingInterface {
   void refreshToken(String? pastAuthToken, String source) {
 
   }
-
-
-
-
 }
 
 
